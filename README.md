@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=ike04&label=Profile%20views&color=0e75b6&style=flat" alt="ike04" />
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ike_pikmin/posts.svg)](http://qiita.com/ike_pikmin)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ike_pikmin/contributions.svg)](http://qiita.com/ike_pikmin)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/ike_pikmin/followers.svg)](http://qiita.com/ike_pikmin)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ike04/posts.svg)](http://qiita.com/ike04)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ike04/contributions.svg)](http://qiita.com/ike04)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ike04/followers.svg)](http://qiita.com/ike04)
 
 Hi 👋, I'm Issei Ikeda, a mobile app engineer from Tokyo.
 
